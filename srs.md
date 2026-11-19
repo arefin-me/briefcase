@@ -12,9 +12,7 @@
 
 **Course:** System Analysis and Design Lab
 
-**Team:** [Your Team Name]
-
-**Prepared by:** [Team Members]
+**Prepared by:** Sultanul Arefin
 
 **Status:** Draft
 
